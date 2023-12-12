@@ -50,7 +50,7 @@
 ## Output:
 
 ### Name:Daksha Subbaian
-### Register Number:23003584
+### Register Number:212223230036
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
